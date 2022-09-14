@@ -1,1 +1,3 @@
 # tugas-kripto
+
+idc anymor
